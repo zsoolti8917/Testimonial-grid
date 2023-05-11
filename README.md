@@ -17,7 +17,6 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
     - [Useful resources](#useful-resources)
   - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -29,24 +28,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
-### Links
-
 Finished project on a 1440px screen
-![Finished project on 1440px](solution/PC%20solution.png)
+![Finished project on 1440px](solution/PC%20solution.PNG)
 
 Finished project on a 375px screen
 <br />
-![Finished project on 375px](solution/Phone%20solution.png)
+![Finished project on 375px](solution/Phone%20solution.PNG)
+
+### Links
+
+- Solution URL: [solution on my frontend mentor profile](https://www.frontendmentor.io/profile/zsoltvarju)
+- Live Site URL: [live site on netlify](https://wonderful-ganache-591903.netlify.app/)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/28ecf1ca-8b27-4813-bf82-62384269c003/deploy-status)](https://app.netlify.com/sites/wonderful-ganache-591903/deploys)
 
 ## My process
 
@@ -60,11 +53,18 @@ Finished project on a 375px screen
 
 ### What I learned
 
+This was a really fun project! It was pretty easy and a good one to practice using the grid. However, I have one major issue: on the phone, there is no space under the last container. If I add margin, it does not help, and I don't know why it could be like this. Any help would be appreciated.
+
+Also, I became a Pro member, so this was my first-ever project where I used Figma. I have to say, it is neat! It is so much easier that I don't need to think about whether 2 headers are the same size or not. I am very happy with it. In the end, I tried to play a little with animations and learned that it is not as easy as I thought. I added the sliding animation to the card, and this way, I could not add hover animations to it, which is pretty disappointing. I tried for at least an hour to make it work, but I could not, and I want to move on with the projects. Maybe later, I will come back to it.
+
+From the responsive side, it should be totally responsive. I followed the mobile-first approach, which I love.
+
+Also, in this project, I tried to add utility classes, but I have no idea if I did it right or wrong or when to apply the utility class to a header or element, etc. Any feedback regarding this would be appreciated.
 
 
 ### Continued development
 
-
+Maybe later, I will come back to it.
 
 ### Useful resources
 
